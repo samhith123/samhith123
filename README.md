@@ -10,7 +10,7 @@
 - 👀 I’m interested in programming!!
 - 🌱 I’m currently learning Machine Learning Modules
 - 📫 How to reach me **samhith.gardas123@gmail.com**
-
+<img align="right" alt="Coding" width="460" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samhith-gardas-091342b1" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617605725~hmac=9572e4be2264b6e2e77650c69450f3fa" alt="pushpa kumari" height="30" width="40" /></a>
