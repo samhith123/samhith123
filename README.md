@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="460" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samhith-gardas-091342b1" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617605725~hmac=9572e4be2264b6e2e77650c69450f3fa" alt="samhith gardas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samhith-gardas-091342b1" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" alt="samhith gardas" height="30" width="40" /></a>
 <h3 align="left">Certifications:</h3>
 <p align="left"> 
 <a href="https://www.credly.com/earner/earned/badge/ffffec7c-9cbd-4f1a-8929-8bba01a8972f/" target="_blank"> <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" alt="c" width="100" height="100"/> </a>
